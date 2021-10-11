@@ -26,4 +26,4 @@ for a in range(1,2):
 
 
 
-robotArm.wait
+robotArm.wait()
